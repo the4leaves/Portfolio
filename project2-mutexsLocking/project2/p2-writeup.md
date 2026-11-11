@@ -1,0 +1,7 @@
+# Indicate if your solution is deadlock and starvation free, explain why
+## Deadlock: free
+## Starvation: free
+
+Reasoning
+------------------
+Using the 3 mutexes I worked with I was careful to avoid deadlocks. I had to be careful that aquisition order was always reliable across all threads, so I decided on a set access order. This order being line, gen, and finally ticket. Ticket mutex was given, and it's purpose is to simply prevent race conditions regarding the ticket variable. Line is similar in purpose, with it's job to protect the various lines of people I implemented as well as a few related variables. These variables being guidesInside, visitorsInside, and peopleWaiting. The final mutex named genMutex handled the variables I used to handle guide departure. In my work I narrowed it down to simply being the one variable of firstLeaver as that was all that was neccesary. I was careful to stick to my ordering across all branches of code, including places like the break statement in the guides while loop. As for starvation, I am not exactly sure how to prove nothing starves other than just pointing to the test cases. Every time a new person is allowed in, the next is woken via the post on line 170, meaning as long as the code continues to run (ie no deadlocking) the next individual will always be woken.

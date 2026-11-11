@@ -1,0 +1,50 @@
+Visitor 0 arrives at time 0.
+Guide 0 arrives at time 0.
+Visitor 1 arrives at time 0.
+Guide 1 arrives at time 0.
+Guide 1 enters at time 0.
+Guide 1 admits a visitor at time 0.
+Visitor 2 arrives at time 0.
+Visitor 1 tours the museum at time 0.
+Guide 2 arrives at time 0.
+Visitor 3 arrives at time 0.
+Visitor 1 leaves the museum at time 0.
+Guide 1 admits a visitor at time 0.
+Visitor 4 arrives at time 0.
+Visitor 5 arrives at time 0.
+Visitor 6 arrives at time 0.
+Visitor 7 arrives at time 0.
+Visitor 8 arrives at time 0.
+Visitor 9 arrives at time 0.
+Visitor 10 arrives at time 0.
+Visitor 11 arrives at time 0.
+Visitor 12 arrives at time 0.
+Visitor 13 arrives at time 0.
+Visitor 14 arrives at time 0.
+Visitor 15 arrives at time 0.
+Visitor 16 arrives at time 0.
+Visitor 17 arrives at time 0.
+Visitor 18 arrives at time 0.
+Visitor 19 arrives at time 0.
+Visitor 20 arrives at time 0.
+Visitor 21 arrives at time 0.
+Visitor 3 tours the museum at time 0.
+Guide 1 admits a visitor at time 0.
+Visitor 5 tours the museum at time 0.
+Visitor 3 leaves the museum at time 0.
+Guide 1 admits a visitor at time 0.
+Visitor 5 leaves the museum at time 0.
+Guide 1 admits a visitor at time 0.
+Visitor 2 tours the museum at time 0.
+Guide 1 admits a visitor at time 0.
+Visitor 11 tours the museum at time 0.
+Visitor 9 tours the museum at time 0.
+Guide 1 admits a visitor at time 0.
+Visitor 11 leaves the museum at time 0.
+Guide 0 enters at time 0.
+Guide 1 admits a visitor at time 0.
+Visitor 10 tours the museum at time 0.
+Visitor 2 leaves the museum at time 0.
+Visitor 10 leaves the museum at time 0.
+Visitor 9 leaves the museum at time 0.
+Guide 2 enters at time 0.
